@@ -1,0 +1,23 @@
+2019-02-20 22:54:30,998 - telegram.bot - DEBUG - Exiting: get_updates
+2019-02-20 22:54:30,999 - telegram.bot - DEBUG - Entering: get_updates
+2019-02-20 22:54:30,999 - telegram.ext.dispatcher - DEBUG - Processing Update: {"update_id": 628510695, "message": {"mes
+sage_id": 87, "date": 1550692474, "chat": {"id": 438824445, "type": "private", "first_name": "Nikita", "last_name": "Kel
+er"}, "text": "Chxksj", "entities": [], "caption_entities": [], "photo": [], "new_chat_members": [], "new_chat_photo": [
+], "delete_chat_photo": False, "group_chat_created": False, "supergroup_chat_created": False, "channel_chat_created": Fa
+lse, "from": {"id": 438824445, "first_name": "Nikita", "is_bot": False, "last_name": "Keler", "language_code": "en"}}}
+2019-02-20 22:54:31,000 - telegram.bot - DEBUG - Entering: send_message
+2019-02-20 22:54:31,000 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - Starting new HTTPS connection (3)
+: api.telegram.org
+2019-02-20 22:54:31,382 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POS
+T /bot764096237:AAFJCh0TuxxjJ47peMMjpOTCVp4S-aGJcG0/sendMessage HTTP/1.1" 200 275
+2019-02-20 22:54:31,383 - telegram.bot - DEBUG - {"message_id": 88, "date": 1550692475, "chat": {"id": 438824445, "type"
+: "private", "first_name": "Nikita", "last_name": "Keler"}, "text": "You have said fucking (C)(h)(x)(k)(s)(j)", "entitie
+s": [], "caption_entities": [], "photo": [], "new_chat_members": [], "new_chat_photo": [], "delete_chat_photo": False, "
+group_chat_created": False, "supergroup_chat_created": False, "channel_chat_created": False, "from": {"id": 764096237, "
+first_name": "Jija_bot", "is_bot": True, "username": "L94ort_bot"}}
+2019-02-20 22:54:31,389 - telegram.bot - DEBUG - Exiting: send_message
+2019-02-20 22:54:36,000 - telegram.ext.updater - DEBUG - Timed out getting Updates: Timed out
+
+
+
+{"Update": {"update_id": 628510695, "message": {"message_id": 87, "date": 1550692474, "chat": {"id": 438824445, "type": "private", "first_name": "Nikita", "last_name": "Keler"}, "text": "Chxksj", "entities": [], "caption_entities": [], "photo": [], "new_chat_members": [], "new_chat_photo": [], "delete_chat_photo": False, "group_chat_created": False, "supergroup_chat_created": False, "channel_chat_created": False, "from": {"id": 438824445, "first_name": "Nikita", "is_bot": False, "last_name": "Keler", "language_code": "en"}}}}

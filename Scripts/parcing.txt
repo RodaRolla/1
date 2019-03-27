@@ -1,0 +1,14 @@
+stack=[]
+while True:
+	for token in input():
+		try:
+			if token == 'stack':
+				print (stack)		
+			if token.isdigit():
+				stack.append(int(token))
+				printTop(stack)
+				continue
+				while token.isdigit():
+				stack.append(int(token))
+		except IndexError:
+			print ('4ota ne to')
